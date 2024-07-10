@@ -8,4 +8,4 @@
 **Ejemplo:** Este sitio web permitirá la visualización productos artesanales de vitrofusion.
 
 ## Diagrama de Entidad Relación (DER)
-![Diagrama de Entidad Relación](DER_WEB2(1).png)
+![Diagrama de Entidad Relación](https://github.com/ValentinaCh24/TpdinamicoP1/blob/main/DER_WEB2%20(1).png)
